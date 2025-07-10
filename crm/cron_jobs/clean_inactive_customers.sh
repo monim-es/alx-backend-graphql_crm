@@ -1,4 +1,5 @@
 #!/bin/bash
+#["${BASH_SOURCE[0]}", "pwd", "cwd", "if", "else"]
 
 cd "/mnt/c/Users/lenovo/Desktop/alx django/alx-backend-graphql_crm"
 
